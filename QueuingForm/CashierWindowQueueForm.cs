@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Runtime.InteropServices;
 using System.Text;
-using System.Timers;
 using System.Windows.Forms;
 
 namespace QueuingForm
@@ -13,13 +13,14 @@ namespace QueuingForm
     
     public partial class CashierWindowQueueForm : Form
     {
-
+        private System.Windows.Forms.Timer timer;
         public CashierWindowQueueForm()
         {
             InitializeComponent();
-            timer1.Tick += new EventHandler(timer1_tick); 
-            timer1.Start();
-
+            timer = new System.Windows.Forms.Timer();
+            timer.Interval = (1 * 1000);
+            timer.Tick += new EventHandler(timer1_tick);
+            timer.Start();
         }
         private void timer1_tick(object sender, EventArgs e)
         {

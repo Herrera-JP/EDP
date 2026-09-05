@@ -28,18 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
             btnRefresh = new Button();
             btnNext = new Button();
             listCashierQueue = new ListView();
-            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
             // btnRefresh
             // 
-            btnRefresh.Location = new Point(45, 38);
+            btnRefresh.Location = new Point(39, 28);
+            btnRefresh.Margin = new Padding(3, 2, 3, 2);
             btnRefresh.Name = "btnRefresh";
-            btnRefresh.Size = new Size(138, 46);
+            btnRefresh.Size = new Size(121, 34);
             btnRefresh.TabIndex = 0;
             btnRefresh.Text = "Refresh";
             btnRefresh.UseVisualStyleBackColor = true;
@@ -47,9 +46,10 @@
             // 
             // btnNext
             // 
-            btnNext.Location = new Point(45, 90);
+            btnNext.Location = new Point(39, 68);
+            btnNext.Margin = new Padding(3, 2, 3, 2);
             btnNext.Name = "btnNext";
-            btnNext.Size = new Size(138, 46);
+            btnNext.Size = new Size(121, 34);
             btnNext.TabIndex = 1;
             btnNext.Text = "Next";
             btnNext.UseVisualStyleBackColor = true;
@@ -58,25 +58,23 @@
             // listCashierQueue
             // 
             listCashierQueue.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            listCashierQueue.Location = new Point(189, 38);
+            listCashierQueue.Location = new Point(165, 28);
+            listCashierQueue.Margin = new Padding(3, 2, 3, 2);
             listCashierQueue.Name = "listCashierQueue";
-            listCashierQueue.Size = new Size(124, 310);
+            listCashierQueue.Size = new Size(239, 234);
             listCashierQueue.TabIndex = 2;
             listCashierQueue.UseCompatibleStateImageBehavior = false;
             listCashierQueue.View = View.List;
             // 
-            // timer1
-            // 
-            timer1.Tick += timer1_tick;
-            // 
             // CashierWindowQueueForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(346, 375);
+            ClientSize = new Size(416, 292);
             Controls.Add(listCashierQueue);
             Controls.Add(btnNext);
             Controls.Add(btnRefresh);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "CashierWindowQueueForm";
             Text = "CashierWindowQueueForm";
             ResumeLayout(false);
@@ -87,6 +85,5 @@
         private Button btnRefresh;
         private Button btnNext;
         private ListView listCashierQueue;
-        private System.Windows.Forms.Timer timer1;
     }
 }

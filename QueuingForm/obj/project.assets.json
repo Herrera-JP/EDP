@@ -8,23 +8,23 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\j0hnp\\.nuget\\packages\\": {},
+    "C:\\Users\\Herrera.396824\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j0hnp\\source\\repos\\QueuingForm\\QueuingForm.csproj",
+      "projectUniqueName": "C:\\Users\\Herrera.396824\\Downloads\\EDP-main\\EDP-main\\QueuingForm\\QueuingForm.csproj",
       "projectName": "QueuingForm",
-      "projectPath": "C:\\Users\\j0hnp\\source\\repos\\QueuingForm\\QueuingForm.csproj",
-      "packagesPath": "C:\\Users\\j0hnp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j0hnp\\source\\repos\\QueuingForm\\obj\\",
+      "projectPath": "C:\\Users\\Herrera.396824\\Downloads\\EDP-main\\EDP-main\\QueuingForm\\QueuingForm.csproj",
+      "packagesPath": "C:\\Users\\Herrera.396824\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Herrera.396824\\Downloads\\EDP-main\\EDP-main\\QueuingForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\j0hnp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Herrera.396824\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0-windows": {
@@ -78,7 +78,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
