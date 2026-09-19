@@ -1,0 +1,17 @@
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\bin\Debug\net10.0-windows\OrganizationProfile.exe
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\bin\Debug\net10.0-windows\OrganizationProfile.deps.json
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\bin\Debug\net10.0-windows\OrganizationProfile.runtimeconfig.json
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\bin\Debug\net10.0-windows\OrganizationProfile.dll
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\bin\Debug\net10.0-windows\OrganizationProfile.pdb
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.frmRegistration.resources
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.AssemblyInfoInputs.cache
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.AssemblyInfo.cs
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.dll
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\refint\OrganizationProfile.dll
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.pdb
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.genruntimeconfig.cache
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\ref\OrganizationProfile.dll
+C:\Users\Herrera.396824\source\repos\OrganizationProfile\obj\Debug\net10.0-windows\OrganizationProfile.frmConfirmation.resources
